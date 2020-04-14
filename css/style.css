@@ -6,7 +6,6 @@ body, html {
   display: block;
   text-align: center;
   background: url("../images/white-wood.jpg") no-repeat;
-
   background-size: cover;
   background: linear-gradient(to right, #Ff5, #005);
 }
