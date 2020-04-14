@@ -8,7 +8,6 @@ body, html {
   background-repeat: no-repeat;
   background: images("white-wood.jpg");
   background-size: cover;
-}
 
 .container, h1 {
   width: 80%;
