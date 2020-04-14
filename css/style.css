@@ -5,9 +5,9 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background: url("./images/white-wood.jpg");
+  background-image: image("./images/white-wood.jpg");
 
-  /*background-size: cover;*/
+  background-size: cover;
   /*background: linear-gradient(to right, #Ff5, #005);*/
 }
 
