@@ -5,7 +5,7 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background: image("./images/white-wood.jpg") no-repeat right;
+  background: image("./images/white-wood.jpg") no-repeat right top;
 
   background-size: cover;
   /*background: linear-gradient(to right, #Ff5, #005);*/
